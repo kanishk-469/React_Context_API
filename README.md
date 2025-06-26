@@ -15,6 +15,6 @@
 1. Design for Static Content (Even i can use it for dynamic context in Small Applications)
 
 2. Debugging is difficult
-3. Perfomance isuue
+3. Perfomance issue
 4. Re-renders of Context Consumer
 5. Difficult to extend and Scale Application
